@@ -261,7 +261,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support, questions, or suggestions:
-- Email: support@modernstore.com
+- Email: supportFyntra@.com
 - GitHub Issues: Create an issue in the repository
 - Documentation: Check this README and code comments
 
