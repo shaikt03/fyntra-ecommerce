@@ -1,3 +1,6 @@
+# fyntra-ecommerce
+Fyntra is a modern ecommerce web application offering a wide range of products from furniture and home essentials to clothing, electronics, and sports items.  Built with a responsive design and smooth UI, Fyntra provides users with a seamless shopping experience.
+
 # ModernStore - Complete E-Commerce Web Application
 
 A modern, responsive e-commerce web application built with React, Bootstrap, and jQuery featuring a complete shopping experience with product catalog, shopping cart, and checkout functionality.
